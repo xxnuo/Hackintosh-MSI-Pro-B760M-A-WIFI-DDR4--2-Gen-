@@ -18,9 +18,9 @@
 - 内存: 金百达银爵 KINGBANK 64GB DDR4 3600 Mhz (32GBx2 XMP 4000Mhz)
 - MacOS 硬盘: 海康威视 HIKVISION C2000 Pro 1TB
 - Windows 硬盘: 凯侠 SD10 1TB (KIOXIA EXCERIA PLUS G3)
-- 声卡: 瑞昱 Realtek ALC897
-- 有线网卡: 瑞昱 Realtek RTL8125BG 2.5GbE LAN
-- 无线网卡: 英特尔 Intel AX211 WIFI6E
+- 声卡: 板载瑞昱 Realtek ALC897
+- 有线网卡: 板载瑞昱 Realtek RTL8125BG 2.5GbE LAN
+- 无线网卡: 板载英特尔 Intel AX211 WIFI6E
 - 处理器散热: 利明 PA120 SE Dual Tower Cooler
 - 机箱:  孤勇者 M-ATX 常规版
 - 电源:  玄武 550V4 650w
