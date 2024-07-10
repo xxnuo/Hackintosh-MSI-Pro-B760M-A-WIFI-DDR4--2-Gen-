@@ -6,13 +6,10 @@ Hackintosh OpenCore EFI for MSI Pro B760M-A WIFI DDR4 II + i5-12600kf + Gigabyte
 
 ### [ENGLISH](README.EN.md)
 
-### OpenCore
+### 软件版本
 
-[OpenCore 1.0.0](https://github.com/acidanthera/OpenCorePkg)
-
-### macOS
-
-- Sonoma 14.5 (23F79)
+- [OpenCore 1.0.0](https://github.com/acidanthera/OpenCorePkg)
+- macOS Sonoma 14.5 (23F79)
 
 ### 硬件
 
