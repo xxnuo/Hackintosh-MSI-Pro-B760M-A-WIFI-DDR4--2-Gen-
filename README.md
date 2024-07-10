@@ -21,9 +21,13 @@
 - 声卡: 板载瑞昱 Realtek ALC897
 - 有线网卡: 板载瑞昱 Realtek RTL8125BG 2.5GbE LAN
 - 无线网卡: 板载英特尔 Intel AX211 WIFI6E
-- 处理器散热: 利明 PA120 SE Dual Tower Cooler
-- 机箱:  孤勇者 M-ATX 常规版
-- 电源:  玄武 550V4 650w
+
+### 其他
+
+- 显示器: 4k
+- 散热: 双塔 Dual Tower Cooler
+- 机箱: M-ATX
+- 电源: 650w
 
 ### BIOS设置
 
