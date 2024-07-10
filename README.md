@@ -1,7 +1,5 @@
 # Hackintosh MSI Pro B760M-A WIFI DDR4 II OpenCore EFI
 
-Hackintosh OpenCore EFI for MSI Pro B760M-A WIFI DDR4 II + i5-12600kf + Gigabyte Radeon RX 6600 XT Gaming OC 8G
-
 ![image](Motherbord.png)
 
 ### [ENGLISH](README.EN.md)
