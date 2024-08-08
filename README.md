@@ -5,8 +5,16 @@
 ### 硬件
 
 - 主板: 微星 MSI Pro B760M-A WIFI DDR4 II (2 Gen) 
-> [产品详情页面](https://www.msi.cn/Motherboard/PRO-B760M-A-WIFI-DDR4-II/Overview)
+
+> [官方产品规格介绍](https://www.msi.cn/Motherboard/PRO-B760M-A-WIFI-DDR4-II/Overview)
+
 - BIOS 版本: 7D99v1A 2024-04-23
+
+> 2024-08-01 发布新版 BIOS 7D99v1B ，更新内容：更新 CPU Microcode 0x125。
+
+> 这个微码更新仅仅只能稍微减缓 13 14 代 CPU 的去世时间，并不能解决体质爆雷问题，用 13 14 代 CPU 的能退就退吧。
+> 我使用的 12 代 CPU 暂时安全所以没有升级的必要。
+
 - 处理器: Intel i5-12600KF
 - 显卡: 技嘉 Radeon RX 6600 XT Gaming OC 8G (Display as AMD Radeon Pro W6600X 8 GB)
 - 内存: 金百达银爵 KINGBANK 64GB DDR4 3600 Mhz (32GBx2 XMP 4000Mhz)
