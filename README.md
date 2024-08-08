@@ -4,7 +4,8 @@
 
 ### 硬件
 
-- 主板: 微星 MSI Pro B760M-A WIFI DDR4 II (2 Gen)
+- 主板: 微星 MSI Pro B760M-A WIFI DDR4 II (2 Gen) 
+> [产品详情页面](https://www.msi.cn/Motherboard/PRO-B760M-A-WIFI-DDR4-II/Overview)
 - BIOS 版本: 7D99v1A 2024-04-23
 - 处理器: Intel i5-12600KF
 - 显卡: 技嘉 Radeon RX 6600 XT Gaming OC 8G (Display as AMD Radeon Pro W6600X 8 GB)
