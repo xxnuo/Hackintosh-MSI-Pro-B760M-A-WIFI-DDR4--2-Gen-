@@ -7,6 +7,7 @@
 - 主板: 微星 MSI Pro B760M-A WIFI DDR4 II (2 Gen) 
 
 > [官方产品规格介绍](https://www.msi.cn/Motherboard/PRO-B760M-A-WIFI-DDR4-II/Overview)
+> [官方驱动及软件下载](https://www.msi.cn/Motherboard/PRO-B760M-A-WIFI-DDR4-II/support#driver)
 
 - BIOS 版本: 7D99v1A 2024-04-23
 
