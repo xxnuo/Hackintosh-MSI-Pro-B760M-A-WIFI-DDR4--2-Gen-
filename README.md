@@ -1,18 +1,11 @@
 # Hackintosh MSI Pro B760M-A WIFI DDR4 II OpenCore EFI
 
-![image](Motherbord.png)
-
-### [ENGLISH](README.EN.md)
-
-### 软件版本
-
-- [OpenCore 1.0.0](https://github.com/acidanthera/OpenCorePkg)
-- macOS Sonoma 14.5 (23F79) [Thirdparty dmg download](https://hackintosh.club/d/10000080)
+![Motherboard](Motherboard.png)
 
 ### 硬件
 
 - 主板: 微星 MSI Pro B760M-A WIFI DDR4 II (2 Gen)
-- BIOS版本: 7D99v1A 2024-04-23
+- BIOS 版本: 7D99v1A 2024-04-23
 - 处理器: Intel i5-12600KF
 - 显卡: 技嘉 Radeon RX 6600 XT Gaming OC 8G (Display as AMD Radeon Pro W6600X 8 GB)
 - 内存: 金百达银爵 KINGBANK 64GB DDR4 3600 Mhz (32GBx2 XMP 4000Mhz)
@@ -29,7 +22,12 @@
 - 机箱: M-ATX
 - 电源: 650w
 
-### BIOS设置
+### 软件版本
+
+- [OpenCore 1.0.0](https://github.com/acidanthera/OpenCorePkg)
+- macOS Sonoma 14.5 (23F79) [Thirdparty dmg download](https://hackintosh.club/d/10000080)
+
+### BIOS 设置
 
 ```
 1.关闭安全启动
@@ -38,7 +36,7 @@ Settings
      |-- Secure Boot
        |-- Secure Boot: Disabled
 
-2.使用搜索功能查找并启用 D.T.M 
+2.使用搜索功能查找并启用 D.T.M
 Search
   |-- D.T.M
     |-- D.T.M: Enabled
@@ -47,4 +45,6 @@ Search
 
 ### 注意事项
 
- - 安装成功后必须使用 [OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) 生成你自己的 SMBIOS
+- 安装成功后必须使用 [OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) 生成你自己的 SMBIOS
+
+![Config](Config.jpg)
